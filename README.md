@@ -1,1 +1,1 @@
-# node-planets-exploration
+# Sample file manipulation project
